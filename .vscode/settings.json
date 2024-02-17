@@ -3,6 +3,7 @@
         "1003.C": "cpp",
         "1004.C": "cpp",
         "1009.C": "cpp",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "string": "c"
     }
 }

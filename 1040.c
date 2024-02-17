@@ -13,8 +13,8 @@ char frase3[1000];
    
     if(frase1[1] == frase2[1] = frase3[1]){
     printf("S");
-}if else(frase){
-printf("N");
-}
+    }if else(frase){
+    printf("N");
+    }
 
 }
