@@ -29,7 +29,12 @@
 * 1035 - Teste de Seleção 1
 * 1036 - Fórmula de Bhaskara
 * 1037 - Intervalo
+* 1041 - 
+* 1042 - 
+* 1043 - 
+* 1044 -
 * 1040 -
+* 1046 - 
 * 1047 - Tempo de Jogo com Minutos
 * 1050 - DDD
 * 1061 - Tempo de um Evento
