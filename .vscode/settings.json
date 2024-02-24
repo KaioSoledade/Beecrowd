@@ -4,6 +4,7 @@
         "1004.C": "cpp",
         "1009.C": "cpp",
         "stdio.h": "c",
-        "string": "c"
+        "string": "c",
+        "1043.C": "cpp"
     }
 }
