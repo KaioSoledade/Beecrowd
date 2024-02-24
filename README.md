@@ -29,8 +29,8 @@
 * 1035 - Teste de Seleção 1
 * 1036 - Fórmula de Bhaskara
 * 1037 - Intervalo
-* 1041 - 
-* 1042 - 
+* 1041 - Coordenadas de um Ponto
+* 1042 - Sort Simples
 * 1043 - 
 * 1044 -
 * 1040 -
