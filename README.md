@@ -2,6 +2,13 @@
 
 ## Categoria:
 
+## Algoritmos Aula
+
+* Cebolinha (Transforma L em R)
+* Comparador nome1 e nome2
+* Comparador texto e quantidade de X letra
+* Vetores
+
 ## 1
 
 * 1000 - Hello World! 
@@ -39,3 +46,15 @@
 * 1050 - DDD
 * 1061 - Tempo de um Evento
 * 1067 - Números Ímpares
+* 1172 -
+* 1173 -
+* 1175 -
+* 1180 - Menor e Posição (Vetores)
+
+## 3
+
+* 1024 - Criptografia
+* 2815 -
+
+
+
