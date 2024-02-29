@@ -4,9 +4,11 @@
 
 ## Algoritmos Aula
 
+* Calcular a area com funções
 * Cebolinha (Transforma L em R)
 * Comparador nome1 e nome2
 * Comparador texto e quantidade de X letra
+* Delta e Bhaskara com funções 
 * Vetores
 
 ## 1
