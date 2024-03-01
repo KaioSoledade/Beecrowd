@@ -40,7 +40,7 @@
 * 1037 - Intervalo
 * 1041 - Coordenadas de um Ponto
 * 1042 - Sort Simples
-* 1043 - 
+* 1043 - Triângulo
 * 1044 -
 * 1040 -
 * 1046 - 
