@@ -41,7 +41,7 @@
 * 1041 - Coordenadas de um Ponto
 * 1042 - Sort Simples
 * 1043 - Triângulo
-* 1044 -
+* 1044 - Múltiplos
 * 1040 -
 * 1046 - 
 * 1047 - Tempo de Jogo com Minutos
