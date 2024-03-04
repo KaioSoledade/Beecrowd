@@ -9,7 +9,7 @@
 * Comparador nome1 e nome2
 * Comparador texto e quantidade de X letra
 * Delta e Bhaskara com funções 
-*
+* Ponteiro explicado
 * Vetores
 
 ## 1
