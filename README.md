@@ -10,6 +10,7 @@
 * Comparador texto e quantidade de X letra
 * Delta e Bhaskara com funções 
 * Ponteiro para calculo de area
+* Resumo sobre função
 * Ponteiro explicado
 * Vetores
 
