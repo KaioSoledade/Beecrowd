@@ -46,7 +46,7 @@
 * 1043 - Triângulo
 * 1044 - Múltiplos
 * 1040 -
-* 1046 - 
+* 1046 - Tempo de Jogo
 * 1047 - Tempo de Jogo com Minutos
 * 1050 - DDD
 * 1061 - Tempo de um Evento
