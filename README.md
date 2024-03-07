@@ -12,6 +12,7 @@
 * Ponteiro para calculo de area
 * Resumo sobre função
 * Ponteiro explicado
+* Resumo sobre função
 * Vetores
 
 ## 1
