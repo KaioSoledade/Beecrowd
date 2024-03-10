@@ -42,14 +42,24 @@
 * 1035 - Teste de Seleção 1
 * 1036 - Fórmula de Bhaskara
 * 1037 - Intervalo
+* 1038 - 
 * 1041 - Coordenadas de um Ponto
 * 1042 - Sort Simples
 * 1043 - Triângulo
 * 1044 - Múltiplos
 * 1040 -
+* 1041 -
+* 1042 -
+* 1043 -
+* 1044 -
+* 1045 -
 * 1046 - Tempo de Jogo
 * 1047 - Tempo de Jogo com Minutos
+* 1048 -
+* 1049 -
 * 1050 - DDD
+* 1051 -
+* 1052 -
 * 1061 - Tempo de um Evento
 * 1067 - Números Ímpares
 * 1172 -
