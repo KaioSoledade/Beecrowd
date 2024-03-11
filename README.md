@@ -42,7 +42,7 @@
 * [1035 - Teste de Seleção 1](1035.c)
 * [1036 - Fórmula de Bhaskara](1036.c)
 * [1037 - Intervalo](1037.c)
-* [1038 -](1038.c)
+* [1038 - ](1038.c)
 * [1040 -](1040.c)
 * [1041 - Coordenadas de um Ponto](1041.c)
 * [1042 - Sort Simples](1042.c)
