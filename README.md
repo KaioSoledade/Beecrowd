@@ -4,16 +4,17 @@
 
 ## Algoritmos Aula
 
-* Calcular a area com funções
-* Cebolinha (Transforma L em R)
-* Comparador nome1 e nome2
-* Comparador texto e quantidade de X letra
-* Delta e Bhaskara com funções 
-* Ponteiro para calculo de area
-* Ponteiro explicado
-* Resumo sobre função
-* Struct com ponteiro
-* Vetores
+* [Calcular a area com funções](Algoritmos-Aula/Calcular-area-funcao.c)
+* [Cebolinha (Transforma L em R)](Algoritmos-Aula/Cebolinha.c)
+* [Comparador nome1 e nome2](Algoritmos-Aula/Comparando-nome1-e-nome2.c)
+* [Comparador texto e quantidade de X letra](Algoritmos-Aula/Comparando-texto-e-letra.c)
+* [Delta e Bhaskara com funções ](Algoritmos-Aula/Delta-Bhaskara-em-funcao.c)
+* [Ponteiro para calculo de area]()
+* [Ponteiro explicado]()
+* [Resumo sobre função]()
+* [Struct com ponteiro]()
+* [Struct sem ponteiro]()
+* [Vetores]()
 
 ## 1
 
