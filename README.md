@@ -44,7 +44,7 @@
 * [1036 - Fórmula de Bhaskara](1036.c)
 * [1037 - Intervalo](1037.c)
 * [1038 - Lanche](1038.c)
-* [1040 -](1040.c)
+* [1040 - ](1040.c)
 * [1041 - Coordenadas de um Ponto](1041.c)
 * [1042 - Sort Simples](1042.c)
 * [1043 - Triângulo](1043.c)
