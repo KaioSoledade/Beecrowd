@@ -14,4 +14,4 @@ printf("SALARY = U$ %.2lf\n", B * C);
 
     return 0;
    
-}
+};
