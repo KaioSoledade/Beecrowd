@@ -19,4 +19,4 @@ int main()
     TOTAL = quant1*preco1 + quant2*preco2;
     
     printf("VALOR A PAGAR: R$ %.2lf\n", TOTAL);
-}
+};

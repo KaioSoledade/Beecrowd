@@ -15,4 +15,4 @@ int main()
     TOTAL = conta + salario;
     
     printf("TOTAL = R$ %.2lf\n", TOTAL);
-};
+}; 
